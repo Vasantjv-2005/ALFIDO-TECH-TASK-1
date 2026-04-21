@@ -39,6 +39,9 @@ This portfolio website represents my expertise in frontend development, featurin
 
 ---
 
+### **Live link**
+https://alfido-tech-task-1.vercel.app/
+
 ## **Technologies Used**
 
 ### **Frontend**
